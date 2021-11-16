@@ -1,0 +1,2 @@
+# Database-FOODTOOYOU
+FOODTOOYOO is a fast grocery delivery service based in London. FOODTOOYOO allows signed up members to have groceries from a number of registered retailing stores rapidly delivered at home, on the same day or on the following day. The idea was initiated during the COVID-19 lockdown that was put in place in UK from March to June 2020 when access to groceries became challenging for many households.
